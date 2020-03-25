@@ -13,7 +13,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 > s.frameworks = 'UIKit'
 > 
-> s.dependency 'iosMath', '~> 0.9.3'
+> s.dependency 'iosMathFork', '~> 0.9.3'
 
 ## Installation
 

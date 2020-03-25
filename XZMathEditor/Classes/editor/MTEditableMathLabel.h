@@ -9,7 +9,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <iosMath/MTMathList.h>
+#import <iosMathFork/MTMathList.h>
 
 @class MTEditableMathLabel;
 @class MTMathListIndex;
